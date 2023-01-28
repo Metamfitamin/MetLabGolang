@@ -35,3 +35,4 @@ func main() {
     fmt.Scanln(&s2)
     fmt.Println(merge(s1, s2))
 }
+//merge two strings like this "1236" "1234" = 11223346
